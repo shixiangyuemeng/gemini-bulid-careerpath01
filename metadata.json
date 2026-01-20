@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CareerPath 职引",
+  "description": "An AI-powered career assistant that transforms casual chat about internships into structured professional resume cards using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
